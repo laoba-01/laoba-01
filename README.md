@@ -4,50 +4,50 @@
 
 Software Engineering student at Fujian University of Technology.
 
-Exploring Go backend development, AI agents, and operating system development.
+Focused on systems software and operating system kernel development with Rust and RISC-V.
 
 </div>
 
 ## About Me
 
-- 🎓 I'm a third-year Software Engineering student at Fujian University of Technology
-- 🔨 I'm currently building an x86_64 operating system kernel from scratch
-- 🐹 I'm learning and practicing Go backend development
-- 🤖 I'm exploring AI agents and LLM application development
-- 💻 I'm interested in systems programming, backend engineering, and computer architecture
+- 🎓 I'm a Software Engineering student at Fujian University of Technology
+- 🔨 I'm currently writing an operating system kernel with Rust for RISC-V
+- 🦀 My current focus is systems software, especially operating systems and low-level programming
+- 💻 I'm interested in computer architecture and how software interacts with hardware
+- 🛠️ I previously worked on Go backend development and AI agent applications
 - 📚 I enjoy understanding how software works from the bottom up
 
 ## Current Project
 
-### [8godOS](https://github.com/laoba-01/8godOS)
+### [8godOS-rCore](https://github.com/laoba-01/8godOS-rCore)
 
-A small x86_64 operating system kernel built from scratch.
+A Rust and RISC-V operating system learning project based on rCore.
 
-Current progress:
+Current focus:
 
-- Booting with GRUB and Multiboot2
-- Setting up the x86_64 long mode
-- Writing boot code with C and Assembly
-- Running and debugging with QEMU
-- Printing text through VGA memory
+- Writing kernel code in Rust
+- Learning the RISC-V architecture and kernel boot process
+- Understanding traps, system calls, and memory management
+- Exploring task scheduling and concurrency
+- Running the kernel with QEMU
 
 Tech stack:
 
-`C` `x86 Assembly` `NASM` `GRUB` `Multiboot2` `QEMU` `Make`
+`Rust` `RISC-V` `QEMU` `Cargo`
 
 ## Skills & Interests
 
-### Backend Development
-
-`Go` `RESTful API` `Database` `Linux` `Docker`
-
-### AI Applications
-
-`AI Agents` `LLM Applications` `Prompt Engineering` `Tool Calling`
-
 ### Systems Programming
 
-`C` `Assembly` `x86_64` `Operating Systems` `Computer Architecture`
+`Rust` `RISC-V` `Linux` `QEMU`
+
+### Areas of Interest
+
+`Operating Systems` `Kernel Development` `Computer Architecture` `Systems Software`
+
+### Previous Experience
+
+`Go Backend` `AI Agent Applications`
 
 ## Learning Path
 
@@ -56,6 +56,7 @@ Go Backend
     ↓
 AI Agent Applications
     ↓
-Operating System Development
+Rust & RISC-V Kernel Development
     ↓
-Computer Systems
+Systems Software
+```
